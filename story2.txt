@@ -1,2 +1,7 @@
 this is line6
+<<<<<<< HEAD
 this line is 7 from salman
+=======
+line 9 added
+line 10 added
+>>>>>>> fdbd1cff97484b6da61527b9a44533442f026532
